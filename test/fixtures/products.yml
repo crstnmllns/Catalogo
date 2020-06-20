@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  price: 1
+  description: MyText
+  typr: one
+  typr_type: Typr
+
+two:
+  name: MyString
+  price: 1
+  description: MyText
+  typr: two
+  typr_type: Typr
